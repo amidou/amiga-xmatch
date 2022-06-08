@@ -1,0 +1,10 @@
+name: xmatch
+dependencies:
+  - numpy
+  - pandas
+  - mysql
+  - pyvo
+  - astropy
+  - requests
+  - bs4
+  - astroquery
