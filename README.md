@@ -1,5 +1,5 @@
 # amiga-xmatch
-A Python notebook to cross-match catalogues with the AMIGA database, or to search for single objects in the AMIGA database
+A Python notebook to cross-match catalogues with the AMIGA sample, or to search for single objects in the AMIGA database
 
 # How to
 The dependencies are listed in the environment file.
